@@ -1,10 +1,9 @@
 
 # Naver Data Science Competition 2018
 
-2018.06.04 ~ 2018.09.20
-=============================
-## Team : BigMing (Big data mining of Geeks)
+## 2018.06.04 ~ 2018.09.20
 
+## Team : BigMing (Big data mining of Geeks)
 
 
 ### ■ Team Member
